@@ -1,0 +1,10 @@
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\bin\Debug\lab3.exe.config
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\bin\Debug\lab3.exe
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\bin\Debug\lab3.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.exe
+C:\Users\chaly\OneDrive\Рабочий стол\931902.PhanHung.Simulation.lab3-master\lab3\obj\Debug\lab3.pdb
